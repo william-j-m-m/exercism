@@ -1,0 +1,43 @@
+# Exercism CLI metadata (contains local paths and API sync data)
+.exercism/
+
+# OS & Editor clutter
+.DS_Store
+Thumbs.db
+.vscode/
+.idea/
+*.swp
+*~
+
+# Python
+__pycache__/
+*.py[cod]
+.pytest_cache/
+.venv/
+venv/
+
+# JavaScript / TypeScript
+node_modules/
+npm-debug.log*
+yarn-error.log*
+
+# Rust
+target/
+
+# Go
+*.exe
+*.test
+*.out
+
+# C / C++
+*.o
+*.obj
+a.out
+build/
+
+# Java / Kotlin / C#
+*.class
+*.jar
+bin/
+obj/
+.gradle/
